@@ -10,9 +10,9 @@ public class exe007 {
         n = sc.nextInt();
 
         if (n < 0) {
-            System.out.println("Número impar");
+            System.out.println("Número Negativo");
         }else
-            System.out.println("número Par");
+            System.out.println("número Positivo");
 
         sc.close();
         
