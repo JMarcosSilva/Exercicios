@@ -11,9 +11,9 @@ public class exe008 {
 
         if (n%2 == 0) {
             System.out.println("Número par");
-        }else
+        }else{
             System.out.println("Número ímpar");
-
+        }
         sc.close();
     }
 }

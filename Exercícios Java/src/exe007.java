@@ -11,9 +11,9 @@ public class exe007 {
 
         if (n < 0) {
             System.out.println("Número Negativo");
-        }else
+        }else{
             System.out.println("número Positivo");
-
+        }
         sc.close();
         
     }

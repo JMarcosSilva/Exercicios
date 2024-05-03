@@ -13,8 +13,10 @@ public class exe009 {
 
         if (a % b == 0 || b % a == 0) {
             System.out.println("São multiplos");
-        }else
+        }else{
             System.out.println("Não são multiplos");
+        }
+            
 
         sc.close();
     }
